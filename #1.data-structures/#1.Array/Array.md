@@ -6,7 +6,7 @@
 
 > [MDN Glossary](https://developer.mozilla.org/pt-BR/docs/Glossary/Array)
 
-> **Groner, Loiane** - Estruturas de dados e algoritmos com JavaScript t p. 90. Novatec Editora
+> **Groner, Loiane** - Estruturas de dados e algoritmos com JavaScript p. 90. Novatec Editora
 
 ## Exemplo
 

@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "#1.data-structures", "#1.data-structures", "{C20F0E70-66E6-44AF-B5ED-38E2B528C6E4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "#1.Array", "#1.Array", "{D6F92CEB-9820-46D3-A5C2-E77BB6D436A5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{BD52AD8A-F9AB-4DF1-BABC-BC934F244C90}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "c#", "c#", "{81AB5831-7A70-40E1-BF27-0702F80D3CCA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyArrayProject", "#1.data-structures\#1.Array\src\c#\MyArrayProject\MyArrayProject.csproj", "{5CAE0AC9-3EB5-4CD6-B51A-B21EE2198AB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CAE0AC9-3EB5-4CD6-B51A-B21EE2198AB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CAE0AC9-3EB5-4CD6-B51A-B21EE2198AB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CAE0AC9-3EB5-4CD6-B51A-B21EE2198AB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CAE0AC9-3EB5-4CD6-B51A-B21EE2198AB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D6F92CEB-9820-46D3-A5C2-E77BB6D436A5} = {C20F0E70-66E6-44AF-B5ED-38E2B528C6E4}
+		{BD52AD8A-F9AB-4DF1-BABC-BC934F244C90} = {D6F92CEB-9820-46D3-A5C2-E77BB6D436A5}
+		{81AB5831-7A70-40E1-BF27-0702F80D3CCA} = {BD52AD8A-F9AB-4DF1-BABC-BC934F244C90}
+		{5CAE0AC9-3EB5-4CD6-B51A-B21EE2198AB5} = {81AB5831-7A70-40E1-BF27-0702F80D3CCA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F02B595E-4664-4862-AF85-8943EEAD44A5}
+	EndGlobalSection
+EndGlobal

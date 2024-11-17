@@ -18,7 +18,7 @@ Adicionar ou remover elementos acontecem na mesma extremidade chamado do Top e s
 
 - É uma estrutura de dados linear
 - Segue o principio de Last In First Out (o ultimo a entrar é o primeiro a sair)
-- A adição de elementos sempre são no topo
+- A adição e remoção de elementos sempre são no topo
 
 ## Operações básicas
 
@@ -26,5 +26,5 @@ Adicionar ou remover elementos acontecem na mesma extremidade chamado do Top e s
 - Pop — Remove o elemento que está no topo da pilha
 - Peek — Devolve o elemento que está no topo da pilha
 - isEmpty — Devolve um booleano se a pilha está vazia ou não
-- Clear - Remove todos os elementos da pilha 
 - Size - retorna o tamanho da pilha
+- Clear - Remove todos os elementos da pilha 

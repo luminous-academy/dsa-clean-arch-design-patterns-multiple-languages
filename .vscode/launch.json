@@ -5,6 +5,13 @@
       "name": "ClientCode",
       "request": "launch",
       "mainClass": "ClientCode",
+      "projectName": "dsa-clean-arch-design-patterns-multiple-languages_7a873dbf"
+    },
+    {
+      "type": "java",
+      "name": "ClientCode",
+      "request": "launch",
+      "mainClass": "ClientCode",
       "projectName": "repository_300725fd"
     },
     {

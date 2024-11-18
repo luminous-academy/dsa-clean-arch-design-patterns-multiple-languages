@@ -18,18 +18,18 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "${workspaceFolder:repository}/#1.data-structures/#1.Array/src/swift",
+      "cwd": "${workspaceFolder:dsa-clean-arch-design-patterns-multiple-languages}/#1.data-structures/#1.Array/src/swift",
       "name": "Debug MyArrayProject (#1.data-structures/#1.Array/src/swift)",
-      "program": "${workspaceFolder:repository}/#1.data-structures/#1.Array/src/swift/.build/debug/MyArrayProject",
+      "program": "${workspaceFolder:dsa-clean-arch-design-patterns-multiple-languages}/#1.data-structures/#1.Array/src/swift/.build/debug/MyArrayProject",
       "preLaunchTask": "swift: Build Debug MyArrayProject (#1.data-structures/#1.Array/src/swift)"
     },
     {
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "${workspaceFolder:repository}/#1.data-structures/#1.Array/src/swift",
+      "cwd": "${workspaceFolder:dsa-clean-arch-design-patterns-multiple-languages}/#1.data-structures/#1.Array/src/swift",
       "name": "Release MyArrayProject (#1.data-structures/#1.Array/src/swift)",
-      "program": "${workspaceFolder:repository}/#1.data-structures/#1.Array/src/swift/.build/release/MyArrayProject",
+      "program": "${workspaceFolder:dsa-clean-arch-design-patterns-multiple-languages}/#1.data-structures/#1.Array/src/swift/.build/release/MyArrayProject",
       "preLaunchTask": "swift: Build Release MyArrayProject (#1.data-structures/#1.Array/src/swift)"
     }
   ]
